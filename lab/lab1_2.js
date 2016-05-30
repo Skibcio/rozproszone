@@ -4,7 +4,7 @@ var AWS = require('aws-sdk');
 AWS.config.loadFromPath('./config.json');
 
 var task =  function(request, callback){
-	
+	console.log("Jeb, Jeb, Jeb");
 	
 }
 
